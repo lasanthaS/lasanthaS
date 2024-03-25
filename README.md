@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LasanthaS&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LasanthaS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LasanthaS&theme=tokyonight_duo&exclude_days=Sat,Sun&card_width=1000&fire=fa6607)]()
+
 <!--
 **lasanthaS/lasanthaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
